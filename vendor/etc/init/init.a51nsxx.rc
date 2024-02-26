@@ -1,0 +1,5 @@
+# init variant rc
+
+on init
+    #SystemPerformance - ActivityManagerPerformance
+    setprop sys.config.amp_to_app_switch 6000
