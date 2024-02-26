@@ -1,0 +1,14 @@
+# a51nsxx-user 13 TP1A.220624.014 A515FXXU8HWK1 release-keys
+- manufacturer: samsung
+- platform: universal9611
+- codename: a51
+- flavor: a51nsxx-user
+- release: 13
+- id: TP1A.220624.014
+- incremental: A515FXXU8HWK1
+- tags: release-keys
+- fingerprint: samsung/a51nsxx/a51:13/TP1A.220624.014/A515FXXU8HWK1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a51nsxx-user-13-TP1A.220624.014-A515FXXU8HWK1-release-keys
+- repo: samsung_a51_dump
